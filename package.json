@@ -1,0 +1,18 @@
+{
+  "name": "chatbot1.1",
+  "version": "1.0.0",
+  "description": "\"# chatbot1.0\" \r \"# chatbot1.0\" \r \"# chatbot1.0\" \r Hola esta es una modificacion de barron modificacion sin acento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "pg": "^8.13.1"
+  }
+}
